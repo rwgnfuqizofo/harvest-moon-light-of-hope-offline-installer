@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging farming game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience Harvest Moon: Light of Hope in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 | Mac OSX 10.7 |
+| **Processor** | Min: Intel Core 2 or AMD equivalent / Rec: Intel Core I3+ or AMD equivalent recommended for HD 108… | Intel Core 2 or AMD equivalent |
+| **Memory** | Min: 1 GB RAM / Rec: 2 GB RAM | 1 GB RAM |
+| **Storage** | Min: 200 MB available space / Rec: 500 MB available space | 200 MB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7 | Windows 7 |
+| **Additional Notes** | Min: Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p. / Rec: Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p… | Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p. |
 
 ---
 
